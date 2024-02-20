@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg">
+<rect width="25" height="25" rx="5" fill="#E7F7FF"/>
+<rect width="25" height="25" rx="5" fill="#E7F7FF"/>
+<rect width="25" height="25" rx="5" fill="#E7F7FF"/>
+<rect width="25" height="25" rx="5" fill="#E7F7FF"/>
+<g clip-path="url(#d)">
+<path d="m17.062 19.875h-8.125c-0.6901 0-1.25-0.5599-1.25-1.25v-11.875c0-0.6901 0.5599-1.25 1.25-1.25h8.125c0.6901 0 1.25 0.5599 1.25 1.25v11.875c0 0.6901-0.5599 1.25-1.25 1.25z" fill="url(#a)"/>
+<path d="m8.7812 7.8438v-1.0938c0-0.08626 0.06999-0.15625 0.15625-0.15625h0.78125" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+<mask id="c" x="3" y="3" width="20" height="20" style="mask-type:luminance" maskUnits="userSpaceOnUse">
+<path d="M23 3H3V23H23V3Z" fill="#000" fill-opacity=".3"/>
+</mask>
+<g mask="url(#c)">
+<mask id="b" x="3" y="3" width="20" height="20" style="mask-type:luminance" maskUnits="userSpaceOnUse">
+<path d="M23 3H3V23H23V3Z" fill="#fff"/>
+</mask>
+<g mask="url(#b)">
+<path d="m13.938 5.5h-5c-0.6901 0-1.25 0.5599-1.25 1.25v5.9375c0.86263 0 1.5625-0.6999 1.5625-1.5625v-3.4375c0-0.34505 0.27995-0.625 0.625-0.625h2.5c0.8626 0 1.5625-0.69987 1.5625-1.5625z" fill="#fff"/>
+</g>
+</g>
+<path d="m16.75 14.587v-2.8605c0-0.4696 0.4549-0.7568 0.8081-0.5119l2.0638 1.4331c0.3377 0.2344 0.3369 0.7894-8e-4 1.023l-2.0638 1.4282c-0.3532 0.2441-0.8073-0.0431-0.8073-0.5119z" fill="#FDDB65"/>
+<path d="m13.306 12.375 3.7606-0.0016v1.5666l-3.7581-0.0025c-0.3435 0-0.6226-0.2767-0.625-0.6201l-0.0025-0.3133c-0.0024-0.3467 0.2783-0.6291 0.625-0.6291z" fill="#FDDB65"/>
+</g>
+<defs>
+<linearGradient id="a" x1="13" x2="13" y1="5.5" y2="19.875" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E7CE0" offset="0"/>
+<stop stop-color="#4BB4FF" offset="1"/>
+</linearGradient>
+<clipPath id="d">
+<rect transform="translate(3 3)" width="20" height="20" fill="#fff"/>
+</clipPath>
+</defs>
+</svg>
